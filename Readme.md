@@ -1,0 +1,1 @@
+#Added Readme File and For your kind information this webpage is responsive just for only Max-width: 471px
